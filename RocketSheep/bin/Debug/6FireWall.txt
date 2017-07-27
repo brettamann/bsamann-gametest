@@ -1,0 +1,27 @@
+52
+25
+               BBBB     |    |                    
+        K  K BBBB   ^   |    W                    
+   E KK K KBBBB   ^^^^  |    W   F  F  F  F       
+      K KBBBB      ^^   |    W                    
+   K K BBBB             |    W                    
+   KBBBB                     |                    
+ BBBB^                       D             |-D-W--
+BBB^^^^                      D             |BBBBBB
+------------------------------             |      
+                           B |-------------|      
+     --------|             BB BB    K      K      
+       B G   W             B B     K      K       
+       B G   W            BBB    K    K  K        
+       B G   W    G        B  B B   K       K     
+       B G   W             BB B  B       K        
+     --------|            B  BBB    K        K    
+                          BB BB-------------------
+                           BKBBB                  
+                         BBBBBB                   
+                                   --D--          
+                                   | F |          
+           --WWWWWWWW--          ---   ---        
+           D        F |          |F  P  F|        
+           |        F |          ----D----        
+           ------------                           

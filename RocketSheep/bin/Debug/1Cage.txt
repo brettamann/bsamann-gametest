@@ -1,0 +1,12 @@
+20
+10
+     |              
+     D         F    
+ P G |              
+------              
+                    
+  BBBBBBB           
+  BBBBBBB           
+  BB K BB      G    
+  BB E BB           
+   BBBBB            

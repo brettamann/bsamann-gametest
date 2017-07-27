@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSheep", "RocketSheep\RocketSheep.csproj", "{CA022115-C867-457C-9A82-0C7CF23E79F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{789AE426-574C-454B-9F9A-A70555000BB7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Rocket_Sheep_Game\1Cage.txt = ..\..\..\Rocket_Sheep_Game\1Cage.txt
+		..\..\..\Rocket_Sheep_Game\2Holdout.txt = ..\..\..\Rocket_Sheep_Game\2Holdout.txt
+		..\..\..\Rocket_Sheep_Game\3Confinement.txt = ..\..\..\Rocket_Sheep_Game\3Confinement.txt
+		..\..\..\Rocket_Sheep_Game\4Smash_n_Grab.txt = ..\..\..\Rocket_Sheep_Game\4Smash_n_Grab.txt
+		..\..\..\Rocket_Sheep_Game\5Warehouse.txt = ..\..\..\Rocket_Sheep_Game\5Warehouse.txt
+		..\..\..\Rocket_Sheep_Game\6FireWall.txt = ..\..\..\Rocket_Sheep_Game\6FireWall.txt
+		..\..\..\Rocket_Sheep_Game\7DodgeBall.txt = ..\..\..\Rocket_Sheep_Game\7DodgeBall.txt
+		..\..\..\Rocket_Sheep_Game\8Labyrinth.txt = ..\..\..\Rocket_Sheep_Game\8Labyrinth.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA022115-C867-457C-9A82-0C7CF23E79F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA022115-C867-457C-9A82-0C7CF23E79F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA022115-C867-457C-9A82-0C7CF23E79F3}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{CA022115-C867-457C-9A82-0C7CF23E79F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA022115-C867-457C-9A82-0C7CF23E79F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA022115-C867-457C-9A82-0C7CF23E79F3}.Release|Default.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal

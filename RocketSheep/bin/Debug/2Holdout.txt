@@ -1,0 +1,17 @@
+22
+15
+                      
+        G   G         
+  F                   
+BBBBB|                
+-WWW-|BBBBBBBBBBBBBBBB
+     |BBBBBBBBBBBBB  B
+     D                
+     W BBBBBBBBBB     
+     --|WWW-WWWW-DD-  
+       |         G    
+ BBB BBBB         K   
+ BBBBB            K   
+ PBB      K|   BBBK   
+ GBB      K|   BEBK   
+ BBB       |K  BBB    

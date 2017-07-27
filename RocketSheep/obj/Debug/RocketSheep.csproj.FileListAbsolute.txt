@@ -1,0 +1,6 @@
+C:\Users\i57539\Documents\Visual Studio 2017\Projects\RocketSheep\RocketSheep\obj\Debug\RocketSheep.csprojResolveAssemblyReference.cache
+C:\Users\i57539\Documents\Visual Studio 2017\Projects\RocketSheep\RocketSheep\bin\Debug\RocketSheep.exe.config
+C:\Users\i57539\Documents\Visual Studio 2017\Projects\RocketSheep\RocketSheep\bin\Debug\RocketSheep.exe
+C:\Users\i57539\Documents\Visual Studio 2017\Projects\RocketSheep\RocketSheep\bin\Debug\RocketSheep.pdb
+C:\Users\i57539\Documents\Visual Studio 2017\Projects\RocketSheep\RocketSheep\obj\Debug\RocketSheep.exe
+C:\Users\i57539\Documents\Visual Studio 2017\Projects\RocketSheep\RocketSheep\obj\Debug\RocketSheep.pdb
